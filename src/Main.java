@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello github!3");
         System.out.println("Hello github!4");
         System.out.println("Hello hot-fix");
-        System.out.println("push test");
+        System.out.println("pull test");
     }
 }
